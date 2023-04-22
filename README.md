@@ -23,7 +23,7 @@ I love building MERN stack applications, UI's, Clones of Existing Websites/ Appl
 
 #### 📫 - How you can reach out to me
 
-  <a href="https://skillicons.dev">
+  <a href="https://twitter.com/SupreetSup">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 
